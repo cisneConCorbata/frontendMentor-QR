@@ -49,4 +49,5 @@ I will continue learning ways to center vertically since the method I use normal
 
 ## Acknowledgments
 
-- [@kkhwjnrk](https://www.frontendmentor.io/profile/kkhwjnrk) for helping me with vertical alignment!
+- [@kkhwjnrk](https://www.frontendmentor.io/profile/kkhwjnrk) for helping me with vertical alignment
+- [@0xAbdul](https://www.frontendmentor.io/profile/0xAbdul) for helping me with accessibility issues
